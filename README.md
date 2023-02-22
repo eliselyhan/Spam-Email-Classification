@@ -2,5 +2,10 @@
 
 ### logistic_regression_v2:
 Spam email classification using logistic regression model; implemented through gradient descent and stochastic gradient descent
+
 ### naive_bayes_k_nn:
-Spam email classification using Naive Bayes and k-NN classifiers; bag-of-words model
+Spam email classification with bag-of-words model and the following classifiers:
+#### Naive Bayes 
+  multinomial distribution
+#### k-NN
+  k=1,3,5
