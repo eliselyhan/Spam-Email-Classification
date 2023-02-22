@@ -5,7 +5,7 @@ Spam email classification using logistic regression model; implemented through g
 
 ### naive_bayes_k_nn:
 Spam email classification with bag-of-words model and the following classifiers:
-#### Naive Bayes 
-  multinomial distribution
-#### k-NN
-  k=1,3,5
+- Naive Bayes 
+- assumed multinomial distribution
+- k-NN
+- k=1,3,5
